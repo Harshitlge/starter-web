@@ -6,5 +6,6 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-##purpose
+## purpose
+
 just to example the system generation of file in git
